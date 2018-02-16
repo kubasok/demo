@@ -1,2 +1,3 @@
 *.log
 sh.exe.stackdump
+*.orig
