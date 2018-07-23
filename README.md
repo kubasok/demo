@@ -8,3 +8,4 @@ This is bound to cause trouble
 
 New test
 
+new new test
